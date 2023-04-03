@@ -2,6 +2,14 @@
 
 Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub featuring the best ChatGPT-related projects, applications, and guides from across the GitHub community.
 
+## 🇨🇳 中文指南汇总
+
+- [🤖 ChatGPT 中文指南 🤖](https://github.com/yzfly/awesome-chatgpt-zh)
+- [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
+- [精选 ChatGPT 资源清单](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
+
+
 ## 🚀 Awesome-chatgpt List
 
 - [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
@@ -23,11 +31,6 @@ Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
 
-## 🇨🇳 中文指南汇总
-
-- [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-- [🤖 ChatGPT 中文指南 🤖](https://github.com/yzfly/awesome-chatgpt-zh)
-- [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
 
 ## 🤖 LLMs
 

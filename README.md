@@ -36,7 +36,8 @@ Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub
 
 - [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
-## feishu
+## Others
 
 - [ChatGPT 学习手册](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)
 - [ChatGPT 基础入门](https://zl49so8lbq.feishu.cn/wiki/wikcnU077sZARtmS9K1D8KZttWd)
+- [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)

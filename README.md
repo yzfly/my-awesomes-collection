@@ -30,7 +30,7 @@ Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub
 * [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
 * [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 * [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
-
+* [提示技巧工程完全指南](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
 
 ## 🤖 LLMs
 

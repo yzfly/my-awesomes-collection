@@ -22,6 +22,7 @@ Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 - [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
 - [AwesomeChatGPT](https://github.com/AwesomeGPT/AwesomeChatGPT)
+- [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 
 ## 📖 Prompt Learning
 

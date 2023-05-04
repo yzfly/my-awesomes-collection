@@ -1,44 +1,20 @@
-# 🌟 ChatGPT-Awesomes-Collection 🌟
+# 个人资源收藏库
 
-Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub featuring the best ChatGPT-related projects, applications, and guides from across the GitHub community.
+个人收藏的一些指南，资源列表，有趣好玩的工具和网站。
 
-## 🇨🇳 中文指南汇总
+## 玩转 GitHub
 
-- [🤖 ChatGPT 中文指南 🤖](https://github.com/yzfly/awesome-chatgpt-zh)
-- [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-- [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
-- [精选 ChatGPT 资源清单](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
+* [GitHub](https://github.com/) — 不限数量的公开代码库和私有代码库(协作者数量不限)。此外还提供了很多其他免费服务。
+* [静态网站托管](https://pages.github.com)- 免费托管静态个人博客，网站。
+* [云开发环境 Codespaces](https://github.com/codespaces) - 云开发环境，每个月提供 120-core 小时 and 15 GB 的免费额度。
+* [CI/CD](https://github.com/features/actions)-公开代码库免费无限制, 私有库免费额度 2000 min/month)
+* [智能编程助手 GitHub Copilot](https://github.com/features/copilot)—收费，学生认证免费
+* [在线编辑 github.dev](https://github.dev)-将代码库 url 地址中的 github.com 修改为  github.dev 即可打开在线版 vscode 编辑代码，免费。
+* [聊天 gitter.im](https://gitter.im/) — Github 在线聊天, 免费无限制创建公开和私密聊天室。  
+* [代码分享 gist](https://gist.github.com/)- 免费分享代码（文本）片段
+* [提问和贡献指南: issue and pr](https://github.com/datawhalechina/DOPMC/blob/main/GITHUB.md) - 如何提 issue 和 pull request 极简指南。
 
-
-## 🚀 Awesome-chatgpt List
-
-- [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
-- [🤖 ChatGPT 中文指南 🤖](https://github.com/yzfly/awesome-chatgpt-zh)
-- [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
-- [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
-- [🧠 Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT)
-- [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-- [AwesomeChatGPT](https://github.com/AwesomeGPT/AwesomeChatGPT)
-- [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
-
-## 📖 Prompt Learning
-
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-* [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)
-* [🧠ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-* [ChatGPT调教指南-咒语指南-聊天提示词指南](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
-* [提示技巧工程完全指南](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
-
-## 🤖 LLMs
-
-- [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-
-## Others
-
-- [ChatGPT 学习手册](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)
-- [ChatGPT 基础入门](https://zl49so8lbq.feishu.cn/wiki/wikcnU077sZARtmS9K1D8KZttWd)
-- [The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
+## AI 资源合集
+* [Github ChatGPT awesome 合集](docs/chatgpt.md)
+* [泛函工具收集](https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf)
+* [AI 研习社](https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf)

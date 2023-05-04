@@ -13,6 +13,31 @@
 * [聊天 gitter.im](https://gitter.im/) — Github 在线聊天, 免费无限制创建公开和私密聊天室。  
 * [代码分享 gist](https://gist.github.com/)- 免费分享代码（文本）片段
 * [提问和贡献指南: issue and pr](https://github.com/datawhalechina/DOPMC/blob/main/GITHUB.md) - 如何提 issue 和 pull request 极简指南。
+### Github 加速 ✈️
+
+日常使用 github 下载代码时如果遇到网速慢、无法连接的情况，可以使用下面的方法加速
+
+#### 1. 方法一（推荐）： [ghproxy.com](https://ghproxy.com/)
+
+常规的面向 GitHub 的 clone 命令可能如下：
+```
+git clone https://github.com/author/repo
+```
+使用 ghproxy 代理加速后（添加 https://ghproxy.com/ 即可）：
+```
+git clone https://ghproxy.com/https://github.com/author/repo
+```
+
+#### 2. 方法二（推荐）： [fastgit.org](https://doc.fastgit.org/zh-cn/guide.html)
+
+常规的面向 GitHub 的 clone 命令可能如下：
+```
+git clone https://github.com/author/repo
+```
+使用 fastgit 时， 命令修改为如下即可：
+```
+git clone https://hub.fastgit.xyz/author/repo
+```
 
 ## AI 资源合集
 * [Github ChatGPT awesome 合集](docs/chatgpt.md)

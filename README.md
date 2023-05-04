@@ -40,7 +40,7 @@ git clone https://hub.fastgit.xyz/author/repo
 ```
 
 ## 免费开发资源
-* [免费开发资源合集](https://github.com/ripienaar/free-for-dev) - 6w+ :star: 收集了各种免费的开发资源 :fire:
+* :fire: [免费开发资源合集](https://github.com/ripienaar/free-for-dev) - 收集了各种免费的开发资源, Github 6 w+ :star:! 
 
 ## AI 资源合集
 * [Github ChatGPT awesome 合集](docs/chatgpt.md)

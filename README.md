@@ -39,10 +39,20 @@ git clone https://github.com/author/repo
 git clone https://hub.fastgit.xyz/author/repo
 ```
 
-## 免费开发资源
-* :fire: [免费开发资源合集](https://github.com/ripienaar/free-for-dev) - 收集了各种免费的开发资源, Github 6 w+ :star:! 
+## 开发资源
+|名称|Star|简介|
+|---|---|---|
+|[:fire: 免费开发资源合集](https://github.com/ripienaar/free-for-dev)|![GitHub Repo stars](https://img.shields.io/github/stars/ripienaar/free-for-dev?style=social) |各种免费优质的开发资源|
+|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|![GitHub Repo stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) |可自托管的免费软件网络服务和web应用程序资源合集|
 
-## AI 资源合集
+## AI 相关
+
+### AI 开源应用
+|名称|Star|简介|
+|---|---|---|
+|[AI 驱动的关系型数据库: eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social) |AI 驱动的关系型数据库，可调用各种检测识别算法对图像视频查询|
+
+### AI 资源合集
 * [Github ChatGPT awesome 合集](docs/chatgpt.md)
 * [泛函工具收集](https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf)
 * [AI 研习社](https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf)

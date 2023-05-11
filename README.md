@@ -45,6 +45,13 @@ git clone https://hub.fastgit.xyz/author/repo
 |[:fire: 免费开发资源合集](https://github.com/ripienaar/free-for-dev)|![GitHub Repo stars](https://img.shields.io/github/stars/ripienaar/free-for-dev?style=social) |各种免费优质的开发资源|
 |[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|![GitHub Repo stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) |可自托管的免费软件网络服务和web应用程序资源合集|
 
+## 宝藏网站
+
+|名称|简介|
+|---|---|
+|[:fire: Logo 设计](https://looka.com/)|免费 Logo 设计，Logo 设计简约漂亮|
+
+
 ## AI 相关
 
 ### AI 开源应用

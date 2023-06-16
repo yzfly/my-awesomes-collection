@@ -42,9 +42,10 @@ git clone https://hub.fastgit.xyz/author/repo
 ## 开发
 |名称|Star|简介|
 |---|---|---|
-|[:fire: 免费开发资源合集](https://github.com/ripienaar/free-for-dev)|![GitHub Repo stars](https://img.shields.io/github/stars/ripienaar/free-for-dev?style=social) |各种免费优质的开发资源|
-|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|![GitHub Repo stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=social) |可自托管的免费软件网络服务和web应用程序资源合集|
-|[project-based-learning](https://github.com/practical-tutorials/project-based-learning)|![GitHub Repo stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning?style=social) |基于项目的学习资源合集|
+|[:fire: 免费开发资源合集](https://github.com/ripienaar/free-for-dev)|![GitHub Repo stars](https://badgen.net/github/stars/ripienaar/free-for-dev) |各种免费优质的开发资源|
+|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|![GitHub Repo stars](https://badgen.net/github/stars/awesome-selfhosted/awesome-selfhosted) |可自托管的免费软件网络服务和web应用程序资源合集|
+|[project-based-learning](https://github.com/practical-tutorials/project-based-learning)|![GitHub Repo stars](https://badgen.net/github/stars/practical-tutorials/project-based-learning) |基于项目的学习资源合集|
+|[敏感词词库](https://github.com/pennyliang/ciku)|![GitHub Repo stars](https://badgen.net/github/stars/pennyliang/ciku) |敏感词词库|
 
 ## 设计
 
@@ -59,7 +60,7 @@ git clone https://hub.fastgit.xyz/author/repo
 ### AI 开源应用
 |名称|Star|简介|
 |---|---|---|
-|[AI 驱动的关系型数据库: eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social) |AI 驱动的关系型数据库，可调用各种检测识别算法对图像视频查询|
+|[AI 驱动的关系型数据库: eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://badgen.net/github/stars/georgia-tech-db/eva) |AI 驱动的关系型数据库，可调用各种检测识别算法对图像视频查询|
 
 ### AI 资源合集
 * [Github ChatGPT awesome 合集](docs/chatgpt.md)

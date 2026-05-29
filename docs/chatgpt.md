@@ -15,13 +15,12 @@ Curated Collection of Awesome ChatGPT Repositories: A comprehensive resource hub
 - [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
 - [🤖 ChatGPT 中文指南 🤖](https://github.com/yzfly/awesome-chatgpt-zh)
 - [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
-- [Awesome ChatGPT](https://github.com/Kamigami55/awesome-chatgpt)
+- [Awesome ChatGPT](https://github.com/eason-dev/awesome-chatgpt)
 - [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
 - [🧠 Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT)
 - [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-- [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt)
-- [AwesomeChatGPT](https://github.com/AwesomeGPT/AwesomeChatGPT)
+- [awesome-gpt](https://github.com/awesome-gptX/awesome-gpt)
 - [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 
 ## 📖 Prompt Learning

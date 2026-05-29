@@ -2,6 +2,20 @@
 
 个人收藏的一些指南，资源列表，有趣好玩的工具和网站。
 
+## 目录
+
+- [玩转 GitHub](#玩转-github)
+  - [Github 加速 ✈️](#github-加速-️)
+- [开发](#开发)
+- [设计](#设计)
+- [AI 相关](#ai-相关)
+  - [AI 资源合集 Awesome List](#ai-资源合集-awesome-list)
+  - [提示工程 Prompt Engineering](#提示工程-prompt-engineering)
+  - [AI 开源应用](#ai-开源应用)
+  - [作者的 Awesome 系列](#作者的-awesome-系列)
+  - [更多 AI 资源](#更多-ai-资源)
+- [作者](#作者)
+
 ## 玩转 GitHub
 
 * [GitHub](https://github.com/) — 不限数量的公开代码库和私有代码库(协作者数量不限)。此外还提供了很多其他免费服务。
@@ -13,33 +27,53 @@
 * [聊天 gitter.im](https://gitter.im/) — Github 在线聊天, 免费无限制创建公开和私密聊天室。  
 * [代码分享 gist](https://gist.github.com/)- 免费分享代码（文本）片段
 * [提问和贡献指南: issue and pr](https://github.com/datawhalechina/DOPMC/blob/main/GITHUB.md) - 如何提 issue 和 pull request 极简指南。
+
 ### Github 加速 ✈️
 
-日常使用 github 下载代码时如果遇到网速慢、无法连接的情况，可以使用下面的方法加速
+日常使用 GitHub 下载代码时如果遇到网速慢、无法连接的情况，可以使用下面的方法加速。
 
-#### 1. 方法一（推荐）： [ghproxy.com](https://ghproxy.com/)
+> 注意：GitHub 加速镜像站常因政策或运营原因变动，下面的镜像如失效，可访问 [ghproxy.link](https://ghproxy.link/) 查看最新可用域名，或参考方案三自建代理。
 
-常规的面向 GitHub 的 clone 命令可能如下：
-```
-git clone https://github.com/author/repo
-```
-使用 ghproxy 代理加速后（添加 https://ghproxy.com/ 即可）：
-```
-git clone https://ghproxy.com/https://github.com/author/repo
-```
-
-#### 2. 方法二（推荐）： [fastgit.org](https://doc.fastgit.org/zh-cn/guide.html)
+#### 方法一（推荐）：[ghfast.top](https://ghfast.top/)
 
 常规的面向 GitHub 的 clone 命令可能如下：
-```
+
+```bash
 git clone https://github.com/author/repo
 ```
-使用 fastgit 时， 命令修改为如下即可：
+
+使用 ghfast.top 代理加速（在原始地址前添加前缀即可）：
+
+```bash
+git clone https://ghfast.top/https://github.com/author/repo
 ```
-git clone https://hub.fastgit.xyz/author/repo
+
+同样支持 Release、Raw、Archive 等文件的加速下载，例如：
+
+```bash
+wget https://ghfast.top/https://github.com/author/repo/archive/refs/heads/main.zip
 ```
+
+#### 方法二（推荐）：[gh-proxy.com](https://gh-proxy.com/)
+
+用法与方法一相同，在原始 GitHub 地址前添加前缀 `https://gh-proxy.com/`：
+
+```bash
+git clone https://gh-proxy.com/https://github.com/author/repo
+```
+
+#### 方法三（进阶）：使用 Cloudflare Workers 自建代理
+
+公共镜像站可能随时失效或限速，最稳妥的方式是自建一个属于自己的代理。推荐基于 Cloudflare Workers 部署 [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) 项目，免费、稳定、专属：
+
+1. 注册 [Cloudflare](https://www.cloudflare.com/) 账号并进入 Workers 控制台；
+2. 新建一个 Worker，将 [gh-proxy](https://github.com/hunshcn/gh-proxy) 提供的 `index.js` 代码粘贴进去并部署；
+3. 部署后会得到一个形如 `https://你的域名.workers.dev/` 的地址，按方法一、二的方式作为前缀使用即可。
+
+> 其他可选的高性能自建方案：[WJQSERVER-STUDIO/ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy)（基于 Go，支持 Docker 部署）。
 
 ## 开发
+
 |名称|Star|简介|
 |---|---|---|
 |[:fire: 免费开发资源合集](https://github.com/ripienaar/free-for-dev)|![GitHub Repo stars](https://badgen.net/github/stars/ripienaar/free-for-dev) |各种免费优质的开发资源|
@@ -54,15 +88,50 @@ git clone https://hub.fastgit.xyz/author/repo
 |[:fire: Logo 设计](https://looka.com/)|免费 Logo 设计，Logo 设计简约漂亮|
 |[:fire: 图片套壳美化](https://shots.so/)|免费图片套壳手机、悬浮背景，让图片更高大上|
 
-
 ## AI 相关
 
-### AI 开源应用
+### AI 资源合集 Awesome List
+
 |名称|Star|简介|
 |---|---|---|
-|[AI 驱动的关系型数据库: eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://badgen.net/github/stars/georgia-tech-db/eva) |AI 驱动的关系型数据库，可调用各种检测识别算法对图像视频查询|
+|[:fire: Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/Hannibal046/Awesome-LLM) |大语言模型 (LLM) 论文、框架、工具、课程的精选合集|
+|[:fire: generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|![GitHub Repo stars](https://badgen.net/github/stars/microsoft/generative-ai-for-beginners) |微软出品的生成式 AI 入门课程，21 节课从零开始构建 AI 应用|
+|[awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)|![GitHub Repo stars](https://badgen.net/github/stars/steven2358/awesome-generative-ai) |现代生成式 AI 项目与服务的精选清单|
+|[awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)|![GitHub Repo stars](https://badgen.net/github/stars/e2b-dev/awesome-ai-agents) |AI 智能体 (Agents) 的精选合集，涵盖开源与闭源项目|
+|[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)|![GitHub Repo stars](https://badgen.net/github/stars/punkpeye/awesome-mcp-servers) |MCP (Model Context Protocol) 服务器精选合集|
+|[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|![GitHub Repo stars](https://badgen.net/github/stars/tensorchord/Awesome-LLMOps) |LLMOps 工具的精选合集，覆盖模型训练、部署、监控全流程|
+|[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/HqWu-HITCS/Awesome-Chinese-LLM) |中文大语言模型相关资源整理，开源模型、数据集、教程等|
+|[Github ChatGPT Awesome 合集](docs/chatgpt.md)|—|精选的 ChatGPT 相关仓库与指南汇总（本仓库整理）|
 
-### AI 资源合集
+### 提示工程 Prompt Engineering
+
+|名称|Star|简介|
+|---|---|---|
+|[:fire: awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts) |最知名的 ChatGPT 提示词合集（现已更名 prompts.chat）|
+|[:fire: Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|![GitHub Repo stars](https://badgen.net/github/stars/dair-ai/Prompt-Engineering-Guide) |系统的提示工程指南，包含论文、技巧与实践|
+
+### AI 开源应用
+
+|名称|Star|简介|
+|---|---|---|
+|[AI 驱动的数据库: evadb](https://github.com/georgia-tech-db/evadb)|![GitHub Repo stars](https://badgen.net/github/stars/georgia-tech-db/evadb) |用 SQL 调用 AI 模型查询图像视频文本（注：项目已归档，仅作参考）|
+
+### 作者的 Awesome 系列
+
+|名称|Star|简介|
+|---|---|---|
+|[:fire: Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/Awesome-MCP-ZH) |MCP 中文资源精选，MCP 指南、Claude MCP、MCP Servers / Clients|
+|[awesome-context-engineering](https://github.com/yzfly/awesome-context-engineering)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-context-engineering) |上下文工程 (Context Engineering) 的资源、论文、工具与最佳实践合集|
+|[awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/awesome-chatgpt-zh) |ChatGPT 中文指南，调教指南、应用开发指南、精选资源清单|
+
+### 更多 AI 资源
+
 * [Github ChatGPT awesome 合集](docs/chatgpt.md)
 * [泛函工具收集](https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf)
 * [AI 研习社](https://zl49so8lbq.feishu.cn/wiki/wikcnu3kSXr75E50w8PFefhJMYf)
+
+## 作者
+
+作者：云中江树
+
+微信公众号：云中江树

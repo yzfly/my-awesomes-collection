@@ -102,6 +102,10 @@ git clone https://gh-proxy.com/https://github.com/author/repo
 |[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|![GitHub Repo stars](https://badgen.net/github/stars/tensorchord/Awesome-LLMOps) |LLMOps 工具的精选合集，覆盖模型训练、部署、监控全流程|
 |[Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/AiHubCN/Awesome-Chinese-LLM) |中文大语言模型相关资源整理，开源模型、数据集、教程等|
 |[Github ChatGPT Awesome 合集](docs/chatgpt.md)|—|精选的 ChatGPT 相关仓库与指南汇总（本仓库整理）|
+|[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)|![GitHub Repo stars](https://badgen.net/github/stars/awesome-dsh-plugin/awesome-dsh-plugin) |DeepSeek Harness（dsh）插件精选列表|
+|[awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)|![GitHub Repo stars](https://badgen.net/github/stars/punkpeye/awesome-remote-mcp-servers) |可直接远程连接的 MCP Server 合集|
+|[awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills)|![GitHub Repo stars](https://badgen.net/github/stars/zhuyansen/awesome-claude-video-skills) |让 Claude Code、Codex 等编码 Agent 做视频的开源 Skill 与工具|
+|[awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)|![GitHub Repo stars](https://badgen.net/github/stars/UnderleveledBuilder/awesome-short-drama-skills) |AI 短剧 / 漫剧 Skill 精选：剧本、改编、分镜与视频提示词|
 
 ### 提示工程 Prompt Engineering
 
@@ -109,6 +113,7 @@ git clone https://gh-proxy.com/https://github.com/author/repo
 |---|---|---|
 |[:fire: awesome-chatgpt-prompts](https://github.com/f/prompts.chat)|![GitHub Repo stars](https://badgen.net/github/stars/f/prompts.chat) |最知名的 ChatGPT 提示词合集（现已更名 prompts.chat）|
 |[:fire: Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|![GitHub Repo stars](https://badgen.net/github/stars/dair-ai/Prompt-Engineering-Guide) |系统的提示工程指南，包含论文、技巧与实践|
+|[awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)|![GitHub Repo stars](https://badgen.net/github/stars/LearnPrompt/awesome-seedance) |Seedance 2.x 视频提示词库，案例均追溯到原帖|
 
 ### AI 开源应用
 
@@ -133,7 +138,18 @@ git clone https://gh-proxy.com/https://github.com/author/repo
 |[awesome-dsh-skills](https://github.com/yzfly/awesome-dsh-skills)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-dsh-skills) |DeepSeek Harness 技能 / 插件精选|
 |[awesome-voice-agents](https://github.com/whobot-ai/awesome-voice-agents)|![GitHub Repo stars](https://badgen.net/github/stars/whobot-ai/awesome-voice-agents) |语音 Agent 全栈资源（STT / TTS / VAD / 框架）|
 |[awesome-music-prompts](https://github.com/yzfly/awesome-music-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-music-prompts) |AI 音乐生成提示词|
-|[awesome-design-html](https://github.com/yzfly/awesome-design-html)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-design-html) |116 套品牌风格 HTML 设计稿，作为 Claude Code Skill 使用|
+|[awesome-design-html](https://github.com/yzfly/awesome-design-html)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-design-html) |118 套品牌风格 HTML 设计稿，作为 Claude Code Skill 使用|
+|[awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-jev-zh) |Jev / TypeSafe 中文精选：官方资料、SDK、应用、Agent 工具与评测，每日自动收录热门项目|
+|[awesome-computer-use](https://github.com/yzfly/awesome-computer-use)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-computer-use) |AI 电脑操作与自动化精选：浏览器、桌面、CLI、手机与云环境，附选型指南|
+|[awesome-gemini-prompts](https://github.com/langgptai/awesome-gemini-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-gemini-prompts) |Gemini 提示词与官方提示指南（含 Gemini 4）|
+|[awesome-grok-prompts](https://github.com/langgptai/awesome-grok-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-grok-prompts) |Grok 提示词与系统提示|
+|[awesome-doubao-prompts](https://github.com/langgptai/awesome-doubao-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-doubao-prompts) |豆包结构化提示词与模型动态|
+|[awesome-qwen-prompts](https://github.com/langgptai/awesome-qwen-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-qwen-prompts) |通义千问提示词与 Qwen 模型速览|
+|[awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-llama-prompts) |Llama 提示模板与写法（含 Meta Muse 说明）|
+|[Awesome-Multimodal-Prompts](https://github.com/langgptai/Awesome-Multimodal-Prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/Awesome-Multimodal-Prompts) |多模态（图像 / 视频 / 音频）提示词与模型清单|
+|[awesome-system-prompts](https://github.com/langgptai/awesome-system-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-system-prompts) |各家大模型与 AI 产品的系统提示词收集|
+|[awesome-deep-research-prompts](https://github.com/langgptai/awesome-deep-research-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-deep-research-prompts) |Deep Research 提示词与工具速览|
+|[awesome-voice-prompts](https://github.com/langgptai/awesome-voice-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/langgptai/awesome-voice-prompts) |语音 Agent 系统提示模板与语音模型清单|
 
 ### 更多 AI 资源
 

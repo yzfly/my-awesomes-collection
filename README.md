@@ -100,14 +100,14 @@ git clone https://gh-proxy.com/https://github.com/author/repo
 |[awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)|![GitHub Repo stars](https://badgen.net/github/stars/e2b-dev/awesome-ai-agents) |AI 智能体 (Agents) 的精选合集，涵盖开源与闭源项目|
 |[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)|![GitHub Repo stars](https://badgen.net/github/stars/punkpeye/awesome-mcp-servers) |MCP (Model Context Protocol) 服务器精选合集|
 |[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|![GitHub Repo stars](https://badgen.net/github/stars/tensorchord/Awesome-LLMOps) |LLMOps 工具的精选合集，覆盖模型训练、部署、监控全流程|
-|[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/HqWu-HITCS/Awesome-Chinese-LLM) |中文大语言模型相关资源整理，开源模型、数据集、教程等|
+|[Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM)|![GitHub Repo stars](https://badgen.net/github/stars/AiHubCN/Awesome-Chinese-LLM) |中文大语言模型相关资源整理，开源模型、数据集、教程等|
 |[Github ChatGPT Awesome 合集](docs/chatgpt.md)|—|精选的 ChatGPT 相关仓库与指南汇总（本仓库整理）|
 
 ### 提示工程 Prompt Engineering
 
 |名称|Star|简介|
 |---|---|---|
-|[:fire: awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts) |最知名的 ChatGPT 提示词合集（现已更名 prompts.chat）|
+|[:fire: awesome-chatgpt-prompts](https://github.com/f/prompts.chat)|![GitHub Repo stars](https://badgen.net/github/stars/f/prompts.chat) |最知名的 ChatGPT 提示词合集（现已更名 prompts.chat）|
 |[:fire: Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|![GitHub Repo stars](https://badgen.net/github/stars/dair-ai/Prompt-Engineering-Guide) |系统的提示工程指南，包含论文、技巧与实践|
 
 ### AI 开源应用
@@ -131,7 +131,7 @@ git clone https://gh-proxy.com/https://github.com/author/repo
 |[awesome-okf](https://github.com/yzfly/awesome-okf)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-okf) |Google 开放知识格式（OKF）中文落点：规范译文、工具与生态清单|
 |[awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-skills-zh) |Agent Skills 中文精选|
 |[awesome-dsh-skills](https://github.com/yzfly/awesome-dsh-skills)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-dsh-skills) |DeepSeek Harness 技能 / 插件精选|
-|[awesome-voice-agents](https://github.com/yzfly/awesome-voice-agents)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-voice-agents) |语音 Agent 全栈资源（STT / TTS / VAD / 框架）|
+|[awesome-voice-agents](https://github.com/whobot-ai/awesome-voice-agents)|![GitHub Repo stars](https://badgen.net/github/stars/whobot-ai/awesome-voice-agents) |语音 Agent 全栈资源（STT / TTS / VAD / 框架）|
 |[awesome-music-prompts](https://github.com/yzfly/awesome-music-prompts)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-music-prompts) |AI 音乐生成提示词|
 |[awesome-design-html](https://github.com/yzfly/awesome-design-html)|![GitHub Repo stars](https://badgen.net/github/stars/yzfly/awesome-design-html) |116 套品牌风格 HTML 设计稿，作为 Claude Code Skill 使用|
 
